@@ -331,16 +331,16 @@ const App = () => {
                 Undergraduate Capstone: Underwater Swarm Robots for Diluted Bitumen Mapping in Freshwater Lakes (In Progress) <BoldUnderline href="/underwater-swarm.pdf" target="_blank" rel="noopener noreferrer">[Proposal↗]</BoldUnderline>
                 </p>
                 <p>
-                Nautical Disaster Autonomous Surface Vehicle <BoldUnderline href="https://aquatonomous.vercel.app/asv">[Overview↗]</BoldUnderline>
+                Nautical Disaster Autonomous Surface Vehicle <BoldUnderline href="https://aquatonomous.vercel.app/asv" target="_blank" rel="noopener noreferrer">[Overview↗]</BoldUnderline>
                 </p>
                 <p>
-                Remote-Compute CV-Driven Automated Pet Feeder <BoldUnderline href="https://youtu.be/ULbh-ibkO7Q">[Demo↗]</BoldUnderline>
+                Remote-Compute CV-Driven Automated Pet Feeder <BoldUnderline href="https://youtu.be/ULbh-ibkO7Q" target="_blank" rel="noopener noreferrer">[Demo↗]</BoldUnderline>
                 </p>
                 <p>
                 Continuous Differential Omni-Directional Mobile Robot Design and Control <BoldUnderline href="/omni-diff-drive.pdf" target="_blank" rel="noopener noreferrer">[Paper↗]</BoldUnderline>
                 </p>
                 <p>
-                ROS2 Package: Carbon Dioxide Spatiotemporal Mapping Rover for Indoor Air Quality Monitoring <BoldUnderline href="https://github.com/sabrinabutton/ros-slam-heat-map">[GitHub↗]</BoldUnderline>
+                ROS2 Package: Carbon Dioxide Spatiotemporal Mapping Rover for Indoor Air Quality Monitoring <BoldUnderline href="https://github.com/sabrinabutton/ros-slam-heat-map" target="_blank" rel="noopener noreferrer">[GitHub↗]</BoldUnderline>
                 </p>
             </SectionContent>
           </Section>
