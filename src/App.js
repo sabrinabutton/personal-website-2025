@@ -325,22 +325,22 @@ const App = () => {
             <SectionContent>
               <SectionTitle>iv. (featured) projects</SectionTitle>
                 <p>
-                Simultaneous Planning and Control of an Autonomous Surface Vehicle <BoldUnderline href="/button-proposal-arctic-asv.pdf" target="_blank" rel="noopener noreferrer">[Proposal↗]</BoldUnderline>
+                Undergraduate Thesis: Simultaneous Planning and Control of an Autonomous Surface Vehicle for Resident Docking in the Arctic (In Progress) <BoldUnderline href="/button-proposal-arctic-asv.pdf" target="_blank" rel="noopener noreferrer">[Proposal↗]</BoldUnderline>
                 </p>
                 <p>
-                Underwater Swarm Robots for Diluted Bitumen Mapping <Bold>[In Progress]</Bold>
+                Undergraduate Capstone: Underwater Swarm Robots for Diluted Bitumen Mapping in Freshwater Lakes (In Progress) <BoldUnderline href="/underwater-swarm.pdf" target="_blank" rel="noopener noreferrer">[Proposal↗]</BoldUnderline>
                 </p>
                 <p>
                 Nautical Disaster Autonomous Surface Vehicle <BoldUnderline href="https://aquatonomous.vercel.app/asv">[Overview↗]</BoldUnderline>
                 </p>
                 <p>
-                Computer Vision Driven Autonomous Pet Feeder <BoldUnderline href="https://youtu.be/ULbh-ibkO7Q">[Demo↗]</BoldUnderline>
+                Remote-Compute CV-Driven Automated Pet Feeder <BoldUnderline href="https://youtu.be/ULbh-ibkO7Q">[Demo↗]</BoldUnderline>
                 </p>
                 <p>
                 Continuous Differential Omni-Directional Mobile Robot Design and Control <BoldUnderline href="/omni-diff-drive.pdf" target="_blank" rel="noopener noreferrer">[Paper↗]</BoldUnderline>
                 </p>
                 <p>
-                CO2 Spatiotemporal Mapping Rover <BoldUnderline href="https://github.com/sabrinabutton/ros-slam-heat-map">[GitHub↗]</BoldUnderline>
+                Carbon Dioxide Spatiotemporal Mapping Rover for Indoor Air Quality Monitoring <BoldUnderline href="https://github.com/sabrinabutton/ros-slam-heat-map">[GitHub↗]</BoldUnderline>
                 </p>
             </SectionContent>
           </Section>
@@ -353,7 +353,7 @@ const App = () => {
               </p>
               <p>
                 <Italics>
-                USSRF - $11,000 (2023) <br/>
+                Undergraduate Summer Student Research Fellowship (USSRF) - $11,000 (2023) <br/>
                 Schulich Leader Scholarship - $100,000 (2021) <br/>
                 Ingenium-NSERC Steam Horizon Award - $25,000 (2021)
                 </Italics>
@@ -364,6 +364,9 @@ const App = () => {
           <Section id="origins">
             <SectionContent>
               <SectionTitle>vi. origins</SectionTitle>
+              <p>
+              <Bold>2003</Bold> - Born in Ottawa, Canada.
+              </p>
               <p>
               <Bold>2019</Bold> - Landed my first software development role at age 16 after shipping a roguelike game during a hackathon.
               </p>
