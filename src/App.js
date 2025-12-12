@@ -340,7 +340,7 @@ const App = () => {
                 Continuous Differential Omni-Directional Mobile Robot Design and Control <BoldUnderline href="/omni-diff-drive.pdf" target="_blank" rel="noopener noreferrer">[Paper↗]</BoldUnderline>
                 </p>
                 <p>
-                Carbon Dioxide Spatiotemporal Mapping Rover for Indoor Air Quality Monitoring <BoldUnderline href="https://github.com/sabrinabutton/ros-slam-heat-map">[GitHub↗]</BoldUnderline>
+                ROS2 Package: Carbon Dioxide Spatiotemporal Mapping Rover for Indoor Air Quality Monitoring <BoldUnderline href="https://github.com/sabrinabutton/ros-slam-heat-map">[GitHub↗]</BoldUnderline>
                 </p>
             </SectionContent>
           </Section>
