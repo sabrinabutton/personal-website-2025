@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import React from 'react';
 import styled, { createGlobalStyle } from 'styled-components';
 
 // 1. Global Styles & Font Import
@@ -83,18 +83,6 @@ const ContactLabel = styled.span`
   overflow: hidden;
   text-overflow: ellipsis;
   font-size: clamp(10px, 2.5vw, 14px);
-`;
-
-const LogoPlaceholder = styled.div`
-  width: 50px;
-  height: 50px;
-  background-color: #e0e0e0; /* Placeholder grey */
-  border-radius: 50%; /* Optional: circular logo area */
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  font-size: 10px;
-  color: #666;
 `;
 
 const Logo = styled.img`
